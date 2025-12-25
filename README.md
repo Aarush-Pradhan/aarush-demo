@@ -1,4 +1,4 @@
 # aarush-demo
 first Github repo
 <br>
-author-Aarush Pradhan
+author-Aarush Pradhan (csit)
